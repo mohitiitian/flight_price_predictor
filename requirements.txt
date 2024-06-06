@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+feature-engine
+flask
+flask-wtf
+gunicorn #as render(package im using to deploy) uses this as server
